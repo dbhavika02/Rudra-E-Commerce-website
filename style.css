@@ -34,7 +34,7 @@ p{
 .section-m1{
     margin: 40px 0;
 }
-button .normal1{
+button.normal{
     font-size: 14px;
     font-weight: 600;
     padding: 15px 30px;
@@ -45,7 +45,7 @@ button .normal1{
     border: none;
     outline: none;
     transition: 0.2s;
-} 
+}  
 body{
     width: 100%;
 }
